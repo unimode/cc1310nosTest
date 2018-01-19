@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="7.4.0"/>
+	<deviceVariant value="Cortex M.CC1310F128"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="GNU_6.3.1:Linaro"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<rts value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<templateProperties value="id=pwmled_CC1310_LAUNCHXL_nortos_gcc.projectspec.pwmled_CC1310_LAUNCHXL_nortos_gcc,buildProfile=release,isHybrid=true,"/>
+	<origin value="/home/paramra/ti/simplelink_cc13x0_sdk_1_60_00_21/examples/nortos/CC1310_LAUNCHXL/drivers/pwmled/gcc/pwmled_CC1310_LAUNCHXL_nortos_gcc.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
