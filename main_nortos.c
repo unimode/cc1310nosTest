@@ -44,6 +44,8 @@
 
 extern void *mainThread(void *arg0);
 
+// git test from workspace_v7
+
 /*
  *  ======== main ========
  */
